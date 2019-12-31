@@ -1,21 +1,3 @@
-So, there'll be more changes here
+Complete rewrite to confuse things
 
-
-Hello there again
-
-More differences
-
-Hello
-
-And more stuff here!
-
-This is a simple readme
-
-Bargle
-
-
-made more differences for diff
-
-
-so now I'm on another branch
-
+I'd like a Polo GTi. But possibly I'd like a van more...
